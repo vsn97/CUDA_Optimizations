@@ -1,7 +1,6 @@
 # CUDA_Optimizations
-Computer Architecure - Final Project
 
-### README ###  - Final Project - ECE 5504 - Naarayanan Rao VS	
+### README ###  
 
 Note: The following instructions work on a Linux based system. Not verified with Windows.
 
