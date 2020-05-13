@@ -36,7 +36,9 @@ $ nvprof ./kmeans -m 'x' -n 'x' -r -o -i ../../data/kmeans/204800(or)819200(or)a
 
 Where x is any real number which decides the number of cluster centers 
 
-Here  	-m = Maximum number of clusters ('x')
+Here  	
+
+	-m = Maximum number of clusters ('x')
 
 	-n = Minimum number of clusters ('x') 
 	
